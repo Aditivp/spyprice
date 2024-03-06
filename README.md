@@ -7,6 +7,6 @@ The SPYRICE website serves as a platform to showcase our products and services r
 
 Features:
 
-Product Showcase: Displaying our range of innovative rice cultivation products.
-About Us: Presenting background information about SPYRICE and our mission.
+Product Showcase: Displaying our range of innovative rice cultivation products.<br>
+About Us: Presenting background information about SPYRICE and our mission.<br>
 Contact Form: Allowing visitors to reach out to us for inquiries and support.
